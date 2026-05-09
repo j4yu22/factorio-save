@@ -1,6 +1,10 @@
 # Factorio Save Repo
 
-This repo is used to share our Factorio save so different people can host without losing progress.
+This repo is used to share our Factorio save so different people can host without losing progress. If the ps1 scripts are not working, run the following command:
+
+```powershell
+Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+```
 
 ## Important Rule
 
