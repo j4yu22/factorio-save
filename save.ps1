@@ -1,6 +1,6 @@
 $saveName = "_autosave2.zip"
 
-$factorioSavePath = "$env:APPDATA\Roaming\Factorio\saves\$saveName"
+$factorioSavePath = "$env:APPDATA\Factorio\saves\$saveName"
 $repoSavePath = ".\$saveName"
 
 if (-not (Test-Path $factorioSavePath)) {
