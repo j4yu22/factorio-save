@@ -1,4 +1,4 @@
-$saveName = "_autosave2.zip"
+$saveName = "squidgame.zip"
 
 $factorioSavePath = "$env:APPDATA\Factorio\saves\$saveName"
 $repoSavePath = ".\$saveName"
