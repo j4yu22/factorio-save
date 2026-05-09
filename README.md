@@ -26,6 +26,14 @@ git pull
 Copy the newest save into your Factorio saves folder:
 
 ```powershell
+Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+```
+
+When it asks, type:
+Y
+
+Then: 
+```powershell
 sync.ps1
 ```
 
