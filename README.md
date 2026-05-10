@@ -43,14 +43,8 @@ Make sure you were the host of the most recent session, then navigate to the rep
 cd path\to\factorio-save
 ```
 
-Commit your changes:
+Push your save to the repo:
 
 ```powershell
-git commit -am "[Insert message here]"
-```
-
-Push your changes:
-
-```powershell
-git push
+save.ps1
 ```
